@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Locale;
 
-public class Exp1 {
+public class Exemplo1 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
